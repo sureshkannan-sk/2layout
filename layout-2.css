@@ -1,0 +1,112 @@
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.bootstrap
+{
+background-color:black;
+}
+.bootstrap .bootstrap-fc
+{
+	display:flex;
+    justify-content:space-between;
+}
+.bootstrap .bootstrap-fc .start
+{
+	width:160px;
+	height:55px;
+	background-color:gray;
+	
+}
+.bootstrap .bootstrap-fc .detail
+{
+	width:300px;
+	height:55px;
+	background-color:gray;	
+}
+.pics
+{
+	background-color:black;
+	height:430px;
+}
+.pics .pics-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.pics .pics-fc .boxa
+{
+	width:660px;
+	height:250px;
+	background-color:white;
+	margin-top:70px;
+}
+.background
+{
+	background-color:white;
+	height:390px;
+}
+.background .background-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.background .background-fc .boxb
+{
+	width:660px;
+	height:250px;
+	background-color:lightblue;
+	margin-top:70px;
+}
+.moon
+{
+	background-color:black;
+	height:420px;
+}
+.moon .moon-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.moon .moon-fc .boxc
+{
+	width:660px;
+	height:250px;
+	background-color:lightblue;
+	margin-top:70px;
+}
+.bg-img
+{
+	background-color:white;
+	height:400px;
+}
+.bg-img .bg-img-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.bg-img .bg-img-fc .boxd
+{
+	width:660px;
+	height:250px;
+	background-color:lightblue;
+	margin-top:70px;
+}
+.website
+{
+background-color: black;
+height:121px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.website .website-fc .boxe
+{
+	width:300px;
+	height:100px;
+	background-color:lightblue;
+	margin-top:15px;
+}
